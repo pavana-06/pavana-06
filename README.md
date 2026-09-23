@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pavana-06/pavana-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/typing.gif" width="850">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pavan Kumar
+
+Software Engineering Student · Builder · Problem Solver
+
+<br>
+
+[ C++ ] · [ Python ] · [ JavaScript ] · [ React ] · [ Node.js ] · [ SQL ]
+
+</div>
+
+---
+
+## `$ whoami`
+
+I'm a Software Engineering student who enjoys turning ideas into
+working software.
+
+I like going beyond the UI — understanding the backend, databases,
+APIs, authentication, application architecture and deployment.
+
+Most of the projects here are things I've built while learning,
+experimenting and solving real problems.
+
+---
+
+## ⚡ What I Build
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🌐  Web Applications                               │
+│   🤖  AI-powered Applications                        │
+│   ⚙️  Backend Systems                                │
+│   🗄️  Database-driven Applications                  │
+│   🛡️  Cybersecurity Projects                         │
+│   🎓  University Projects                             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
